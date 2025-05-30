@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "HHpaTuElHi0=",
+  "success": true,
+  "projectFilePath": "C:\\Git\\MetadataBaseMaintainerApps\\ManageKlvExtract\\ManageKlvExtract\\ManageKlvExtract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kai\\.nuget\\packages\\system.codedom\\9.0.0\\system.codedom.9.0.0.nupkg.sha512",
+    "C:\\Users\\kai\\.nuget\\packages\\system.management\\9.0.0\\system.management.9.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "ManageKlvExtract depends on System.Management (>= 8.0.0) but System.Management 8.0.0 was not found. System.Management 9.0.0 was resolved instead.",
+      "libraryId": "System.Management",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
