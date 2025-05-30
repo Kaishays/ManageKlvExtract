@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ManageKlvExtract")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a0e595359289abc2aa28bcf2da7ab1d4341f7f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+071079b874af8ab31725a4e4ea247f99a70dce14")]
 [assembly: System.Reflection.AssemblyProductAttribute("ManageKlvExtract")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ManageKlvExtract")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
